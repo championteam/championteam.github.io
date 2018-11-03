@@ -2,11 +2,11 @@
 #
 
 # Site settings
-title: ChampionTeam
+title: Champion Team
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  Programa para el mejoramiento del ambiente laboral,  
+  una solución a los problemas  
+  de su negocio.
 owner: Andrea Perez # or PAPT Solutions
 first_published: 2018 # if migrating another site, the year of your first publish
 email: championteam@paptsolutions.com
@@ -57,3 +57,43 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+queest: ¿QUÉ ES EL PROGRAMA CHAMPION TEAM?
+queesdesc: Es un programa diseñado para mejorar el ambiente laboral de su empresa con el fin de brindarles un espacio adecuado de trabajo a sus colaboradores, fomentando el trabajo en equipo, la integración y pertenencia. A través de la realización de este programa ajustado a sus necesidades usted podrá visualizar los puntos críticos por los que afrontan sus colaboradores, permitiéndole realizar correcciones de manera inmediata y mejorar notablemente su eficiencia
+cuandot: LA MALA RELACIÓN LABORAL ENTRE SUS TRABAJADORES NO LE PERMITE AVANZAR EN EL CRECIMIENTO DE SU EMPRESA
+cuandodesc: La excesiva rivalidad desencadena en estrés laboral y bajo rendimiento en sus trabajadores. Este problema termina formando un efecto dominó en todo su personal ya que la mala comunicación terminará en la caída de todas las piezas de su juego o departamentos. La mayoría de empresas tienen un departamento de recursos humanos pero este no actúa sobre las emociones o psicología de su personal, las evaluaciones y demás intentos que realizan no bastan para mantener la estabilidad de sus colaboradores y en muchos de los casos los socios, dueños o gerentes de una compañía terminan viendo el fracaso de la misma.
+razonest: CHAMPION TEAM ES LA SOLUCIÓN A TU PROBLEMA
+          MANTENGA A SUS COLABORADORES CONTENTOS Y A SU NEGOCIO CRECIENDO
+razones1desc: Trabajamos sobre tu recurso más importante, tus colaboradores, mejorando al máximo su ambiente laboral.
+razones2desc: Sus colaboradores aprenderán de trabajo en equipo, pausas activas, integración y pertenencia en la empresa.
+razones3desc: Tus trabajadores mejorarán su rendimiento laboral así  como mejorará el rendimiento de tu empresa.
+comot: ¿CÓMO FUNCIONA EL PROGRAMA CHAMPION TEAM?
+comodesc: El programa funciona al igual que los procesos utilizados en la auditoría con la diferencia de que las recomendaciones las obtenidas por la auditoría nosotros las aplicamos en tu negocio para que puedas ver los resultados esperados.
+cualidad1t: TRABAJO EN EQUIPO
+cualidad1desc: Observa a sus colaboradores trabajar de forma organizada y pacífica encaminados al cumplimiento de sus objetivos institucionales.
+cualidad2t: INTEGRACIÓN
+cualidad2desc: Sus colaboradores sentirán que puede contar con sus compañeros y sus jefes brindándole confianza y disminuyendo los índices de rotación de personal.
+cualidad3t: PERTENENCIA
+cualidad3desc: Sus colaboradores aprenderán que su lugar de trabajo es su segunda casa, fomentando el trabajo por su empresa.
+cualidad4t: COACHING
+cualidad4desc: Sus colaboradores aprenderán a no tener miedo al cambio, dejando de lado sus limitaciones y mejorando sus habilidades tanto personales como laborales.
+cualidad5t: PAUSAS ACTIVAS
+cualidad5desc: Se fortalecerá la enseñanza de pausas activas para disminuir los problemas de salud y riesgos laborales.
+cualidad6t: MOTIVACIÓN
+cualidad6desc: Aprenderán a dejar sus problemas en casa y a llegar a su lugar de trabajo con mucho más ánimo y optimismo. Comprenderán que su empresa y su jefe se preocupan por ellos.
+contactot: CONTÁCTANOS PARA MAYOR INFORMACIÓN
+contactodesc: Puedes contar con nuestro compromiso y apoyo
+  VISITA NUESTRA GALERÍA Y REDES SOCIALES PARA CONOCER A NUESTROS CLIENTES Y TESTIMONIOS
+quienest: QUIENES SOMOS
+quienesdesc: Champion Team es una organización que nació de un emprendimiento de un grupo de soñadores que creyeron que sus ideas llegarían a ser parte fundamental de las empresas ecuatorianas para su desarrollo integral. Con el pasar de los años y su constante lucha llega a consolidarse el programa para el Mejoramiento Ambiental, una organización que vincula sus experiencias con tendencias y conocimientos a la vanguardia para ayudar a incrementar los beneficios de su negocio.
+  Ecuador tiene la tasa de actividad emprendedora más alta de Latinoamérica razones por las cuales el número de organizaciones ha incrementado en los últimos años pero cuando las empresas empiezan su camino a la expansión de su negocio terminan por descuidar aspectos importantes que no permiten generar en un 100% los resultados esperados, es esta visión Champion Team decide crear métodos que ayuden a entender los puntos críticos de su negocio enfocándose en generar soluciones sobre su recurso más importante, su personal, es por ellos que, comprometidos por esta causa Campion Team brinda sus servicios de mejoramiento del ambiente laboral.
+
+filosofiat: FILOSOFÍA CORPORATIVA
+misiont: Misión
+misiondesc: Champion Team es un programa creado para brindar soluciones integrales a los diferentes problemas que afrontan las empresas enfocándose en la capacitación, coaching, charlas y demás actividades necesarias para el mejoramiento del ambiente laboral de sus colaboradores, la constante actualización en el campo proporcionan las herramientas adecuadas para el cumplimiento de sus objetivos institucionales.
+visiont: Visión
+visiondesc: Champion Team en los próximos años se convertirá en un referente en el mercado ecuatoriano, gracias a la entrega de sus colaboradores y la constante innovación de sus servicios, llegando a formar parte esencial para el desarrollo de las empresas.
+onjetivot: Objetivo General
+objetivodesc: Brindar soluciones innovadoras que mejoren la calidad de los servicios de las empresas a través de la implementación de nuestro programa ajustado a casa caso, promoviendo el buen ambiente laboral.
+
+
+
